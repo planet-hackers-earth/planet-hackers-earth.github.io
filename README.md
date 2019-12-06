@@ -1,2 +1,1 @@
-# planet-hackers-earth.github.io
-PHE Landing Page
+# [planet.hackers.earth](https://planet.hackers.earth)
